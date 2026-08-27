@@ -1,0 +1,8 @@
+D:\3Y1S_work\hackaton\SmartClinic\Clinic.Api\obj\Debug\net8.0\Clinic.Api.csproj.AssemblyReference.cache
+D:\3Y1S_work\hackaton\SmartClinic\Clinic.Api\obj\Debug\net8.0\Clinic.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\3Y1S_work\hackaton\SmartClinic\Clinic.Api\obj\Debug\net8.0\Clinic.Api.AssemblyInfoInputs.cache
+D:\3Y1S_work\hackaton\SmartClinic\Clinic.Api\obj\Debug\net8.0\Clinic.Api.AssemblyInfo.cs
+D:\3Y1S_work\hackaton\SmartClinic\Clinic.Api\obj\Debug\net8.0\Clinic.Api.csproj.CoreCompileInputs.cache
+D:\3Y1S_work\hackaton\SmartClinic\Clinic.Api\obj\Debug\net8.0\Clinic.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\3Y1S_work\hackaton\SmartClinic\Clinic.Api\obj\Debug\net8.0\Clinic.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\3Y1S_work\hackaton\SmartClinic\Clinic.Api\obj\Debug\net8.0\Clinic.Api.sourcelink.json
